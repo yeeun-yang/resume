@@ -1,6 +1,6 @@
 streamlit
 Image
-PIL
+Pillow
 folium
 folium.plugins
 MarKerCluster
