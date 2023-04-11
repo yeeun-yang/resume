@@ -5,7 +5,6 @@ from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
 
 # theme
-st.set_page_config(theme='light')
 
 col1, col2 = st.columns([3,7])
 
