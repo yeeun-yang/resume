@@ -2,5 +2,4 @@ streamlit
 Image
 Pillow
 folium
-MarKerCluster
-folium_static
+
