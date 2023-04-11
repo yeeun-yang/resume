@@ -2,4 +2,7 @@ streamlit
 Image
 Pillow
 folium
-
+plugins
+MarkerCluster
+streamlit_folium
+folium.Map
