@@ -2,7 +2,7 @@ streamlit
 Image
 Pillow
 folium
-folium.plugins
+Folium plugins
 MarKerCluster
 streamlit_folium
 folium_static
