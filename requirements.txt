@@ -1,8 +1,6 @@
-streamlit
-Image
-Pillow
-folium
-plugins
-MarkerCluster
-streamlit_folium
-folium.Map
+streamlit==0.86.0
+Pillow==8.3.1
+folium==0.12.1
+streamlit-folium==0.13.0
+
+
