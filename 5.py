@@ -75,7 +75,7 @@ with col2:
     with subcol2:
         st.markdown('<h6>koreanresearch2018@gmail.com</h6>', unsafe_allow_html=True)
         st.markdown('<h6>www.linkedin.com/in/yeeunyang1996</h6>', unsafe_allow_html=True)
-        st.markdown('<h6>Budapest,&nbsp;Hungary</h6>', unsafe_allow_html=True)
+        st.markdown('<h6>Stockholm,&nbsp;Sweden</h6>', unsafe_allow_html=True)
         st.markdown('', unsafe_allow_html=True)
     
     o = st.empty()
